@@ -9,7 +9,7 @@ Connect-Tor é uma Ferramenta Livre e de Código Aberto que utiliza-se como base
 Um Script De Proxy para dipositivos Windows na rede tor, Devendo apenas a Ser Utilizada por profissionais De Segurança da Informação para fins Educacionais.
 
 ## MENU:
-![Interface Do Proxy](https://blog.athenasecurity.com.br/wp-content/uploads/2020/08/TOR-1.png)
+![Interface Do Proxy](https://github.com/Cyber-Root0/Connect-Tor/blob/main/Midia/TOR-1.png)
 
 
 
