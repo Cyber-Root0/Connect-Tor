@@ -16,7 +16,7 @@ Um Script De Proxy para dipositivos Windows na rede tor, Devendo apenas a Ser Ut
 ## Instruçoes:
 - Realizar o Download Do Reposítório 
 - Clicar em Conectar com o Proxy
-- Se preferir Descoectar
+- Se preferir Desconectar
 
 ## Requerimentos:
 
