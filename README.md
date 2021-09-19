@@ -27,7 +27,7 @@ Um Script De Proxy para dipositivos Windows na rede tor, Devendo apenas a Ser Ut
 
 ## Redes Sociais (Contato):
 
-Email: boteistem@gmail.com
+Email: boteistem@yandex.com
 
 
 
